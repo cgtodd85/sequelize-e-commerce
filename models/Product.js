@@ -20,7 +20,6 @@ Product.init(
       type: DataTypes.STRING,
       allowNull: false,
       primaryKey: true,
-      autoIncrement: true,
     },
     price: {
       type: DataTypes.DECIMAL(10, 2),
