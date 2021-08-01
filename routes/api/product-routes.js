@@ -15,6 +15,7 @@ router.get("/", async (req, res) => {
   }
 });
 
+// get all products without catrgory or tag
 router.get("/names", async (req, res) => {
   try {
     const productData = await Product.findAll();

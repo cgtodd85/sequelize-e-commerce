@@ -43,7 +43,7 @@ router.post("/", (req, res) => {
     });
 });
 
-//
+//update
 router.put("/:id", (req, res) => {
   Category.update(
     {
@@ -61,6 +61,7 @@ router.put("/:id", (req, res) => {
     .catch((err) => res.json(err));
 });
 
+//delete
 router.delete("/:id", (req, res) => {
   // delete a category by its `id` value
   Category.destroy({
