@@ -27,14 +27,6 @@ Install the following as npm dependencies: express, dotenv, myql2, sequelize. No
 
 Use insomnia or similar app to test all the routes created. GET routes will return all or one. POST routes will create new entries. PUT routes will update entries. DELETE routes will remove entries. Watch the linked video to see a walkthrough.
 
-## Contributing
-
-No other contributors
-
-## Tests
-
-undefined
-
 ## Development
 
 This is only the beginning of a backend. It could be more robust and include more routes.
