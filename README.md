@@ -1,9 +1,8 @@
 # E-Commerce Backend with Sequelize ORM
 
-# Demo Video
+## Demo Video
 
-Click on the link below to see a demonstration of each route using Insomnia.
-[CLick for demo video](https://drive.google.com/file/d/1c_Lff_4qOvlpddn-SN26TKSgXywBA7MI/view?usp=sharing)
+[Click here for demo video using Insomnia](https://drive.google.com/file/d/1c_Lff_4qOvlpddn-SN26TKSgXywBA7MI/view?usp=sharing)
 
 ## Description
 
